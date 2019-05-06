@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        driverClassName: com.mysql.jdbc.Driver
+        url: jdbc:mysql://gz-cdb-ri031cv6.sql.tencentcdb.com:62767/zzwc_awaken?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+        username: root
+        password: zh701017
